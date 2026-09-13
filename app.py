@@ -59,7 +59,7 @@ CV_MODEL = "LaurianeMD/vit-skin-disease"
 # Use your available Gemini model here.
 # If your API account exposes a different current model,
 # replace this value.
-GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.6-flash")
+GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-3.6-flash")
 
 BRAND_PRIMARY = "#4F46E5"      # indigo
 BRAND_PRIMARY_DARK = "#3730A3"
